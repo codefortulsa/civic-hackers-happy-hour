@@ -15,7 +15,7 @@ Our vision turned into reality when our friends over at Mozilla, who are big sup
 
 In order to continue the conversations from our Happy Hour, Code for Tulsa has “hacked” this GitHub repository to serve as a place for attendees to connect as “Collaborators” on this “project”.  We encourage you to browse the other “Collaborators”, review their Profiles and follow/connect with them with the intention of further growing this awesome community that is rapidly evolving. We are honored to have so many “Rock Stars” attending our event and we know the entire community can learn a lot by seeing what other repositories they are Forking and/or Committing to.
 
-Additionally feel free to add “Issues” for purposes of discussion etc.
+Additionally feel free to add “Issues” for purposes of discussion etc or to edit CONTRIBUTORS.md with your name.
 
 Thank you again we are honored to share this opportunity with so many amazing people doing so many amazing things.
 
