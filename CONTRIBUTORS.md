@@ -6,3 +6,4 @@ If your going feel free to add your name in a pull request.
 - [Persa Zula](http://persazula.com) | [Code for Summit County](http://codeforsummitcounty.org)
 - [John Dungan </TUL> Code for Tulsa](https://github.com/jdungan)
 - [Luke Crouch </TUL>](https://github.com/groovecoder)
+- [Rebecca Williams](https://github.com/rebeccawilliams) | [CodeforDC] (http://codefordc.org) | [Sunlight Foundation] (http://sunlightfoundation.com)
