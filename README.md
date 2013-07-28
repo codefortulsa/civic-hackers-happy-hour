@@ -1,9 +1,9 @@
 civic-hackers-happy-hour
 ========================
 
-On Tuesday, July23rd, some amazing folks are being honored for their roles in the Open Government and Civic Hacking movements at a Champions of Change event at the White House.
+On Tuesday, July23rd, some amazing folks were honored for their roles in the Open Government and Civic Hacking movements at a Champions of Change event at the White House.
 
-Code for Tulsa is honored that our OpenFEMA Urban Search & Rescue project from the National Day of Civic Hacking (NDoCH)was selected to participate in these festivities.
+Code for Tulsa is honored that our OpenFEMA Urban Search & Rescue project from the National Day of Civic Hacking (NDoCH)was selected to participate in those festivities.
 
 Code for Tulsa also knows that:
 1.  There are more people doing awesome things in the open government/civic hacking space than could ever be recognized at the Champions of Change event.
